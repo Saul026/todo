@@ -15,3 +15,8 @@
     font-weight: 100;
     opacity: 0.4;
 }
+
+.App > span {
+    margin-top: 60px;
+    color: lightgray;
+}
